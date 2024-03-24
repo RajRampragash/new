@@ -1,0 +1,83 @@
+
+.topcontant {
+    color: rgb(11, 10, 10);
+    position: relative;
+
+}
+
+.topcontant__contrainer {
+    position: absolute;
+    top: 100px;
+    right: 100px;
+}
+
+.topcontant__contrainer>p {
+
+    font-family: comic;
+    font-style: italic;
+    font-size: large;
+    letter-spacing: 1px;
+    text-align: center;
+    text-indent: 30px;
+    padding-left: 3px;
+    padding-top: 20px;
+    color: rgb(8, 8, 8);
+
+}
+
+.topcontant__contrainer>a>button {
+    margin-top: 30px;
+    text-align: left;
+    margin-left: 5px;
+    border: none;
+    border-radius: 2px;
+    outline: none;
+}
+
+.topcontant__contrainer>h1 {
+  
+    font-size: 60px;
+    font-family: myFont;
+    color: rgb(0, 2, 5);
+}
+
+
+
+.topcontant__downloadButton {
+    color: rgb(221, 191, 191);
+    background-color: #f64c08;
+    font-size: 14px;
+    padding: 10px 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+    cursor: pointer;
+    margin-right: 30px;
+    border-radius:50px ;
+   
+}
+
+.topcontant__downloadButton:hover {
+    color: #f64c08;
+    background-color: rgb(111, 199, 231);
+    font-weight: 600;
+    border-radius: 50px;
+}
+
+.topcontant__workButton {
+    color: rgb(221, 191, 191);
+    background-color: #f64c08;
+    font-size: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+    cursor: pointer;
+    margin-right: 30px;
+    border-radius:50px ;
+    
+}
+
+.topcontant__workButton:hover {
+    color: black;
+    background-color: rgb(111, 199, 231);
+    font-weight: 600;
+    border-radius: 50px;
+}

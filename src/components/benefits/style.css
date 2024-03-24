@@ -1,0 +1,16 @@
+.projectContainer__project {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    margin: 0 -10px;
+  }
+  
+  .projectContainer__project > * {
+    flex-basis: calc(20% - 10px);
+    margin: 0 10px;
+  }
+  
+  .projectContainer__project img {
+    width: 100%;
+    height: auto;
+  }

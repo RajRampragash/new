@@ -1,0 +1,9 @@
+.topcontainer {
+   background: url('../../assests/background.jpg');
+    height: 98vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+   
+
+}

@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Space+Mono:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+:root
+{
+  --main-col:#252526;
+  --blue-col:#007acc;
+  --bg-col:#1e1e1e;
+}
+
+.footer
+{
+  background-color:var(--main-col);
+ 
+  align-items: center;
+  display:flex;
+  justify-content:space-between;
+  bottom:0px;
+  left:0px;
+  flex-wrap:wrap;
+
+}
+.liences{
+    color: white;
+ margin-left: 40%;
+  
+}

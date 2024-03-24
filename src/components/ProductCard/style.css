@@ -1,0 +1,13 @@
+.project {
+    justify-content: center;
+    
+  }
+  .project_contant>img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+     
+  
+      
+  }
